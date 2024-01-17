@@ -7,7 +7,7 @@ KernelMode driver with some parts not included so no pasta!
 This driver includes a fully fledged EasyAntiCheat bypassing method of communication.
 
 *Features*
-  - Read memory
+  - Read memory 
   - Write memory
   - Overwrite instructions with no-op
   - Draw Text
