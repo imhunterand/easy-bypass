@@ -12,7 +12,7 @@ This driver includes a fully fledged EasyAntiCheat bypassing method of communica
   - Overwrite instructions with no-op
   - Draw Text
   - Draw Rectangle
-  - Draw Filled Rectangle
+  - Draw Filled Rectangle 
   - Draw Line
   - Hooking API
 
