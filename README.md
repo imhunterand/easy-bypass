@@ -1,7 +1,7 @@
 # EACBypass
 EasyAntiCheat bypassing driver (29/07/2022)
 
-KernelMode driver with some parts not included so no pasta!
+KernelMode driver with some parts not included so no pasta!  
 
 ### Includes
 This driver includes a fully fledged EasyAntiCheat bypassing method of communication.
