@@ -10,7 +10,7 @@ This driver includes a fully fledged EasyAntiCheat bypassing method of communica
   - Read memory 
   - Write memory
   - Overwrite instructions with no-op
-  - Draw Text
+  - Draw Text 
   - Draw Rectangle
   - Draw Filled Rectangle 
   - Draw Line
