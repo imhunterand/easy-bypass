@@ -16,5 +16,4 @@ This driver includes a fully fledged EasyAntiCheat bypassing method of communica
   - Draw Line
   - Hooking API
 
-**Communicates VIA function hook**
-  
+[![Star History Chart](https://api.star-history.com/svg?repos=imhunterand/easy-bypass&type=Date)](https://star-history.com/#imhunterand/easy-bypass&Date)
